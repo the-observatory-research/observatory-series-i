@@ -1,0 +1,123 @@
+[
+  {
+    "experiment": "Experiment 1B",
+    "original_filename": "Explicit Baseline - Experiment 1B.docx",
+    "output_filename": "Experiment_1B_Explicit_Baseline.md",
+    "model_sections": 6,
+    "trials": "ChatGPT:3, DeepSeek:3, Gemini:3, Claude:3, Grok:3, Meta AI:3",
+    "embedded_equations": 23,
+    "source_table_count": 0,
+    "original_paragraphs": 611,
+    "output_lines": 833,
+    "issues": [],
+    "sha256_source": "2c2d3d3be9eb81000d86e4a08eec5953464ce2492e22d9b8ea751b8913f90556"
+  },
+  {
+    "experiment": "Experiment 2",
+    "original_filename": "Semantic Recoding - Experiment 2.docx",
+    "output_filename": "Experiment_2_Semantic_Recoding.md",
+    "model_sections": 6,
+    "trials": "ChatGPT:3, DeepSeek:3, Gemini:3, Claude:3, Grok:3, Meta AI:3",
+    "embedded_equations": 0,
+    "source_table_count": 0,
+    "original_paragraphs": 647,
+    "output_lines": 799,
+    "issues": [],
+    "sha256_source": "81df2177f7dfa7e274051431791b7803d372757f4acf7261b9f9911225ee1f8c"
+  },
+  {
+    "experiment": "Experiment 3",
+    "original_filename": "Relational Dispersion - Experiment 3.docx",
+    "output_filename": "Experiment_3_Relational_Dispersion.md",
+    "model_sections": 6,
+    "trials": "ChatGPT:3, DeepSeek:3, Gemini:3, Claude:3, Grok:3, Meta AI:3",
+    "embedded_equations": 14,
+    "source_table_count": 0,
+    "original_paragraphs": 754,
+    "output_lines": 967,
+    "issues": [],
+    "sha256_source": "2720e7acf9de6740d1b73428672ab91117dc95470209134909bdf175430fedf7"
+  },
+  {
+    "experiment": "Experiment 4",
+    "original_filename": "Cross-Representational Mapping - Experiment 4.docx",
+    "output_filename": "Experiment_4_Cross_Representational_Mapping.md",
+    "model_sections": 6,
+    "trials": "ChatGPT:3, DeepSeek:3, Gemini:3, Claude:3, Grok:3, Meta AI:3",
+    "embedded_equations": 120,
+    "source_table_count": 0,
+    "original_paragraphs": 834,
+    "output_lines": 1056,
+    "issues": [],
+    "sha256_source": "e526f4130e95070386323376b0f5d3018fbd8f884d3f78adb44820df09bd2edf"
+  },
+  {
+    "experiment": "Experiment 5",
+    "original_filename": "Compression Gradient - Experiment 5.docx",
+    "output_filename": "Experiment_5_C1-C3_Compression_Gradient.md",
+    "model_sections": 18,
+    "trials": "ChatGPT:3, DeepSeek:3, Gemini:3, Claude:3, Grok:3, Meta AI:3, ChatGPT:3, DeepSeek:3, Gemini:3, Claude:3, Grok:3, Meta AI:3, ChatGPT:3, DeepSeek:3, Gemini:3, Claude:3, Grok:3, Meta AI:3",
+    "embedded_equations": 126,
+    "source_table_count": 2,
+    "original_paragraphs": 2910,
+    "output_lines": 3832,
+    "issues": [
+      "One malformed source trial divider (—-) was interpreted as the boundary between Grok trials 1 and 2 in Level 1; the original remains available."
+    ],
+    "sha256_source": "3b4269b1e82b4c08117eb0323784b359c795a3cfd94511b5aa20e8c0c093e816"
+  },
+  {
+    "experiment": "Experiment 5 C3′",
+    "original_filename": "C₃′_ High Compression _ Explicit No-Repeat Control - Experiment  5.docx",
+    "output_filename": "Experiment_5_C3Prime_Explicit_No_Repeat_Control.md",
+    "model_sections": 6,
+    "trials": "ChatGPT:3, DeepSeek:3, Gemini:3, Claude:3, Grok:3, Meta AI:3",
+    "embedded_equations": 35,
+    "source_table_count": 0,
+    "original_paragraphs": 949,
+    "output_lines": 1195,
+    "issues": [],
+    "sha256_source": "2187308df482ce9826b3dd37b1230de6b78d1be4633f2cd941519985ac45ce26"
+  },
+  {
+    "experiment": "Experiment 6",
+    "original_filename": "Relational Interference - Experiment 6.docx",
+    "output_filename": "Experiment_6_Relational_Interference.md",
+    "model_sections": 6,
+    "trials": "ChatGPT:3, DeepSeek:3, Gemini:3, Claude:3, Grok:3, Meta AI:3",
+    "embedded_equations": 15,
+    "source_table_count": 0,
+    "original_paragraphs": 527,
+    "output_lines": 607,
+    "issues": [],
+    "sha256_source": "825c44a6020e66102afbdfaf3d3734c0309af018a8f4d14c1e723b931d382499"
+  },
+  {
+    "experiment": "Experiment 7A",
+    "original_filename": "Recursive Differentiated Transport - Experiment 7a.docx",
+    "output_filename": "Experiment_7A_Recursive_Differentiated_Transport.md",
+    "model_sections": 6,
+    "trials": "ChatGPT:1, DeepSeek:1, Gemini:1, Claude:1, Grok:1, Meta AI:1",
+    "embedded_equations": 0,
+    "source_table_count": 0,
+    "original_paragraphs": 173,
+    "output_lines": 221,
+    "issues": [],
+    "sha256_source": "119203ac89cf54821c33331f62186ce578767471d1f0a35160956e4a5cf304a8"
+  },
+  {
+    "experiment": "Experiment 7B",
+    "original_filename": "Unplanned Relay Observation -Experiment 7b.docx",
+    "output_filename": "Experiment_7B_Unplanned_Relay_Observation.md",
+    "model_sections": 6,
+    "trials": "ChatGPT:1, DeepSeek:1, Gemini:1, Claude:1, Grok:1, Meta AI:1",
+    "embedded_equations": 0,
+    "source_table_count": 0,
+    "original_paragraphs": 138,
+    "output_lines": 156,
+    "issues": [
+      "Source contains placeholders: [PASTE META'S FINAL OUTPUT FROM EXPERIMENT 7A HERE]"
+    ],
+    "sha256_source": "c8da57c1a559e78e29ab410d15df3dbf9c12bb00ab7e4df507af624e1fae4669"
+  }
+]
