@@ -1,0 +1,13 @@
+A network contains five nodes: A, B, C, D, and E.
+A can send directly to B and D.
+B can send directly to C, but cannot send directly to E.
+C can send directly to D. C can reach E only through D.
+D can send directly to C and E, but cannot initiate communication with A.
+E can send directly to B.
+No valid route may contain the same node more than once.
+Answer the following:
+1. What valid route or routes allow A to reach E?
+2. If B becomes unavailable, can A still reach C? If so, give the valid route.
+3. Can D initiate a valid route to A?
+4. Can C reach E without passing through D?
+5. Briefly explain each answer using only the rules above.

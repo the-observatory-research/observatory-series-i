@@ -78,3 +78,7 @@ provenance/                       # QA report, hashes, distinct archive bundles,
 
 - [The Observatory Research Archive](https://publish.obsidian.md/the-observatory/The+Observatory)
 - Add a verified Zenodo Series I DOI here if/when applicable.
+
+## License and reuse
+
+**No license has been selected for this GitHub repository.** The materials include original research, machine-readable derivative reference data, and third-party model outputs. Verify redistribution permissions and choose source-appropriate licensing before making the repository public or reusing content.
